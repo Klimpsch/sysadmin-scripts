@@ -1,4 +1,4 @@
-# sysadmin scripts
+# Sysadmin scripts
 Collection of automation, diagnostic, and configuration scripts.
 .
 ├── windows-scripts/   Windows batch (.bat) utilities
